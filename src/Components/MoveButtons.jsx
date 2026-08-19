@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 
-import { moveUsers } from "../store/user-slice";
+import { moveUsers } from "../Store/user-slice";
 
 function MoveButtons({
   selected,

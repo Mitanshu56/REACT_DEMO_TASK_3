@@ -5,7 +5,7 @@ import {
   updateUser,
   setFormData,
   resetForm,
-} from "../store/user-slice";
+} from "../Store/user-slice";
 
 function UserForm() {
   const dispatch = useDispatch();

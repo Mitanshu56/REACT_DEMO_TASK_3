@@ -6,7 +6,7 @@ import {
 import {
   deleteUser,
   setFormData,
-} from "../store/user-slice";
+} from "../Store/user-slice";
 
 import Filter from "./Filter";
 import { useState } from "react";
